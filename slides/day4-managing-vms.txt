@@ -1,0 +1,5 @@
+# Day 4 Slide Deck Notes – Managing VMs with KVM on RHEL
+
+...
+
+© 2025 Develop Every Mind – All Rights Reserved
